@@ -1,0 +1,77 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Raleway", sans-serif;
+}
+.heading
+{
+    margin-top: 3rem;
+}
+h1
+{
+    text-align: center;
+}
+h5
+{
+    text-align: center;
+    padding-left: 5.5em;
+}
+.container
+{
+    margin-top: 10rem;
+    display: flex;
+    justify-content: center;
+    scale: 1.5;
+}
+.display-timer
+{
+    margin-bottom: 1rem;
+    text-align: center;
+    scale: 2;
+    font-family: sans-serif;
+}
+.laplist
+{
+    margin-top: 1rem;
+    text-align: center;
+}
+.btn
+{
+    display: flex;
+    justify-content: space-around;
+}
+button
+{
+    height: 1.5rem;
+    width: 3.5rem;
+    border-radius: .5rem;
+    margin: 1rem;
+}
+#stop
+{
+    background-color: #c1121f;
+    color: white;
+}
+#stop.display
+{
+    display: none;
+}
+#start
+{
+    background-color: #80ed99;
+    color: black;
+}
+#start.display
+{
+    display: none;
+}
+#reset.display
+{
+    display: none;
+}
+#lap.display
+{
+    display: none;
+}
