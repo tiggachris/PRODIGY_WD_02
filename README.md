@@ -1,5 +1,7 @@
 # Stopwatch Website
 
+---
+
 ## Overview:
 The Stopwatch Website is a simple yet effective tool for accurate time tracking and lap recording. With its intuitive interface and convenient controls, users can easily start, stop, reset, and record laps with precision.
 
@@ -21,9 +23,6 @@ The Stopwatch Website is a simple yet effective tool for accurate time tracking 
 - CSS
 - JavaScript
 
-
-## Contributions:
-Contributions and feedback are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
 
 
 ## Authors
