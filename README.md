@@ -1,7 +1,5 @@
 # Stopwatch Website
 
----
-
 ## Overview:
 The Stopwatch Website is a simple yet effective tool for accurate time tracking and lap recording. With its intuitive interface and convenient controls, users can easily start, stop, reset, and record laps with precision.
 
